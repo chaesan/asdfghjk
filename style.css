@@ -4,8 +4,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #ccf8ff;
-    font-family: 'Arial', sans-serif;
+    background-color: #ffbbf9;
+    font-family: 'Times New Roman', serif;
     flex-direction: column;
 }
 
@@ -26,7 +26,7 @@ h1 {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #4dff5b;
+    background-color: #1bafff;
     color: white;
     border: none;
     border-radius: 5px;
@@ -36,7 +36,7 @@ h1 {
 .no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #ff3434;
+    background-color: #f43a8a;
     color: white;
     border: none;
     border-radius: 5px;
