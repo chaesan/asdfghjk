@@ -4,8 +4,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #9af8ff;
-    font-family: 'Arial', sans-serif;
+    background-color: #ffbbf9;
+    font-family: 'Times New Roman', serif;
 }
 
 .container {
@@ -14,7 +14,7 @@ body {
 
 .header_text {
     font-size: 3em;
-    color: #4dafff;
+    color: #62b6ff;
 }
 
 .gif_container img {
